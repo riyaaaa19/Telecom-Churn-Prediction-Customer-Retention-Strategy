@@ -80,6 +80,8 @@ Interactive Power BI dashboard includes:
 * KPIs: average churn rate, monthly revenue, complaint trends.
 * Filters for region and plan type to enable quick insights.
 
+  ![Telecom Churn Dashboard](Telecom_dashboard.png)
+
 ---
 
 ### 🚀 **Future Enhancements**
